@@ -1,2 +1,2 @@
 # python
-# https://github.com/SUBU7667/python.git/HTML&CSS3.html
+# https://github.com/SUBU7667/python/HTML&CSS3.html
